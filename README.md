@@ -15,4 +15,6 @@ Published to  supreme-part.surge.sh (uploaded app to surge)
 
 Etherscan link to contract address https://rinkeby.etherscan.io/address/0x9f50090d6785BBE22c7cC52Fc85e6B6E114858DF
 
-Contract address 0x9f50090d6785BBE22c7cC52Fc85e6B6E114858DF
+Contract address 0x9f50090d6785BBE22c7cC52Fc85e6B6E114858DF 
+
+Speedrunethereum.com profile https://speedrunethereum.com/builders/0x49A406F0692E6A998C5A8599ff8c5938CfEAcF3C
